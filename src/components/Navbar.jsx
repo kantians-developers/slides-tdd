@@ -6,13 +6,7 @@ export const Navbar = () => {
     <nav className='py-4 px-48 bg-[#f8d8a5] rounded-2xl m-2'>
         <ul className='flex justify-center gap-20'>
             <li className='p-3 rounded-2xl hover:bg-[#ff8482]'>
-                <Link to='/Dany'>Inicial</Link>
-            </li>
-            <li className='p-3 rounded-2xl hover:bg-[#ff8482]'>
-                <Link to='/'>Home</Link>
-            </li>
-            <li className='p-3 rounded-2xl hover:bg-[#ff8482]'>
-                <Link to='/Johan'>Johan</Link>
+                <Link to='/'>Johan</Link>
             </li>
             <li className='p-3 rounded-2xl hover:bg-[#ff8482]'>
                 <Link to='/Dayeza'>Dayeza</Link>

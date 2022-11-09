@@ -1,12 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+:root{
+    --color1 : #caff42 ;
+    --color2 : #ebf7f8 ;
+    --color3 : #d0e0eb ;
+    --color4 : #88abc2 ;
+    --color5 : #49708a ;
+}
 body{
     margin: 0;
     padding: 0;
     background-color: rgb(182, 196, 176);
+    font-family: 'Fugaz One', cursive;
 }
 
 ul li {
     list-style: none;
+    font-size: 2rem;
+}
+
+img{
+    width: 30rem;
 }
