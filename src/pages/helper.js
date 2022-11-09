@@ -1,0 +1,6 @@
+export * from './BrandonPage'
+export * from './HomePage'
+export * from './JohanPage'
+export * from './DanyPage'
+export * from './DayezaPage'
+export * from './SimonPage'
